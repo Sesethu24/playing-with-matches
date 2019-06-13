@@ -1,5 +1,6 @@
-function getRandomInt(max) {
-    return Math.floor(Math.random() * Math.floor(max));
-  }
-  
-  console.log(getRandomInt(3));
+
+// function myFunction() {
+//   var x = Math.floor((Math.random() * 10) + 1);
+//   document.getElementById("demo").innerHTML = x;
+// }
+// console.log(x);
